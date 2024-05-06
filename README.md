@@ -28,6 +28,10 @@ I'm a passionate developer who first fell in love with problem-solving while pla
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mariannecuevas&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannecuevas&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mariannecuevas/mariannecuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
