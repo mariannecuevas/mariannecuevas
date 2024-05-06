@@ -5,7 +5,7 @@
 I'm a passionate developer who first fell in love with problem-solving while playing video games. That passion drove me into web development, where I enjoy the challenge of coding and the satisfaction of seeing my projects come alive. What excites me most about coding is that there's always something new to learn. Each project is a chance to explore, improve my skills, and try out new ideas. I'm committed to constantly growing and staying up-to-date with the latest trends and technologies in web development.
 
 ### 💬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/mariannecuevas/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariannecuevas)
 
 ### 📚 Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
