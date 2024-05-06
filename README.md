@@ -2,7 +2,7 @@
 <h3 align="center">My name is Marianne, and I'm a software developer based in Orange County, CA.</h3>
 
 ### 🗣️ About Me
-I am a passionate developer who loves growing and learning new things. I found a love for problem-solving while playing video games and this love has led me to pursue a career in web development. I love challenging myself and seeing my projects come to life.
+I'm a passionate developer who first fell in love with problem-solving while playing video games. That passion drove me into web development, where I enjoy the challenge of coding and the satisfaction of seeing my projects come alive. What excites me most about coding is that there's always something new to learn. Each project is a chance to explore, improve my skills, and try out new ideas. I'm committed to constantly growing and staying up-to-date with the latest trends and technologies in web development.
 
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/mariannecuevas/)
